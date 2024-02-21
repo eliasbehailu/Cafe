@@ -9,6 +9,7 @@ body {
     background-color: #f6b319;
     border-radius: 0;
     border: 0;
+    
 }
 #logo-img {
     width: 150px;
@@ -16,5 +17,5 @@ body {
     margin: 10px 15px 10px 0;
     /* Adjust the path to your image */
     background: url('../images/restaurant-logo.png') no-repeat;
-}
+} 
 
